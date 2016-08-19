@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/Main_css.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1 id= "Banner">TRAINING ZONE</h1>
+    <h1 id="Nav_Bar"><table width="200" border="1">
+  <tbody>
+    <tr>
+      <td><a href="../index.html">Home</a></td>
+      <td><a href="../history.html">History</a></td>
+      <td><a href="../training-article.html">Training Article</a></td>
+      <td><a href="../announcment.html">Announcement</a></td>
+      <td><a href="../links.html">Links</a></td>
+      <td><a href="../contact.html">Contact</a></td>
+      
+    </tr>
+  </tbody>
+</table>
+</h1>
+    <!-- TemplateBeginEditable name="Content" -->
+    <p id="Content">This is body</p>
+    <!-- TemplateEndEditable -->
+<p id="Footer">© Copyright Robert Bacal, 2000. You may reproduce this material within your organization or in newsletters free of charge provided this statement is included, and all contact information is also included.</p>
+</body>
+</html>
